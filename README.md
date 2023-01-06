@@ -1,4 +1,4 @@
-![](D:/OneDrive%20-%20CGIAR/Cassava2050/header.png)
+![](https://github.com/Cassava2050/Cassava2050/blob/main/header.png?raw=true)
 
 ### Hi there 👋
 
