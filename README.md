@@ -1,8 +1,10 @@
-# Cassava Program
+# Cassava Breeding Program at the Alliance of Bioversity and CIAT (CIAT)
 
 ## Introduction
 
-This repository contains the code and documentation for the Cassava program developed by the International Center for Tropical Agriculture (CIAT). The goal of the program is to improve the productivity, profitability, and sustainability of cassava production and use in developing countries. Cassava is a major staple food and source of income for millions of smallholder farmers, particularly in sub-Saharan Africa. The program is focused on finding ways to increase its production and improve the livelihoods of these farmers.
+This repository contains the code and documentation developed by the Cassava breeding program at the Alliance of Bioversity International and the International Center for Tropical Agriculture (CIAT). The mission of the Cassava Program is to improve the livelihoods of cassava-growing smallholders and their communities, the Cassava Program will co-develop innovative solutions for specific regions, farming systems, and markets that boost farm productivity, enhance consumer benefits and drive sustainability throughout the value chain. 
+![image](https://user-images.githubusercontent.com/42722175/230142149-68c5ba62-a20a-4481-99f2-832ee70858b2.png)
+
 
 ## Contributing
 
