@@ -22,4 +22,4 @@ The Cassava program is licensed under the [MIT License](https://opensource.org/l
 
 ## Contact
 
-If you have any questions or comments about the Cassava program, please contact us at [Xiaofei.Zhang@cgiar.org](mailto:Xiaofei.Zhang@cgiar.org)
+If you have any questions or comments about the Cassava program, please contact us at [s.fenstemaker@cgiar.org](mailto:s.fenstemaker@cgiar.org)
